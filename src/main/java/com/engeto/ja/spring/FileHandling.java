@@ -1,4 +1,4 @@
-package com.engeto.ja.spring.controller;
+package com.engeto.ja.spring;
 
 import java.io.IOException;
 import java.nio.file.Files;

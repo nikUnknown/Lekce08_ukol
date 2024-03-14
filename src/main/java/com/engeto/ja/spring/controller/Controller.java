@@ -2,7 +2,7 @@ package com.engeto.ja.spring.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import static com.engeto.ja.spring.controller.FileHandling.loadFile;
+import static com.engeto.ja.spring.FileHandling.loadFile;
 
 
 @RestController
