@@ -22,7 +22,4 @@ public class Controller {
     public String historic(){
         return loadFile("resources/historic.txt");
     }
-
-    //TEST
-
 }
